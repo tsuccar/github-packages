@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tsuccar/github-packages/issues"
   },
-  "homepage": "https://github.com/tsuccar/github-packages#readme"
+  "homepage": "https://github.com/tsuccar/github-packages#readme",
+  "publishConfig": {
+    "@tsuccar:registry": "https://npm.pkg.github.com"
+  }
 }
